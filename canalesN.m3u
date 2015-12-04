@@ -14,10 +14,6 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b848000.m3u8
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png", TVN
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png", TVN HD-TDT
-http://wow1.tvn.cl:1935/tvn-live/b26226ff4616997e7921be49f3cddbe8_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png", TVN-TDT
-http://wow1.tvn.cl:1935/tvn-live/b26226ff4616997e7921be49f3cddbe8_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsjeaejmrj.png", Mega HD
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsjeaejmrj.png", Mega
@@ -32,6 +28,8 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:0, Telecanal 268p
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1, CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0, TV Chile
@@ -39,7 +37,6 @@ http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6c
 
 #EXTINF:0,--Regiones Chile--
 http://separador.m3u
-
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png", Morro Vision Arica 
 http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/antofagasta_tv_cl_zps9q2wlmjw.png", AntofagastaTV HD
@@ -66,9 +63,9 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-holvoet_zpsox7uxnwt.png", Holvoet Copiapo
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b848000.m3u8
-#EXTINF:0, Contivision HD
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png", Contivision HD
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:0, Contivision
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png", Contivision
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b796000.m3u8
 #EXTINF:0, CampusTV HD U.Talca
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
@@ -94,6 +91,56 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:0,group-title="CINE/SERIES",--CINE/SERIES--
 http://?
+#EXTINF:-1 channelId=\"2491\" , FOX1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"177\" , FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2495\" , FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2493\" , FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2494\" , FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"177\" , FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"177\" , FOX CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"178\" , FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1304\" , FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"64\" , CINECANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"64\" , CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2900\" , TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1052\" , TNT LA
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2686\" , TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1962\" , GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2662\" , FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2501\" , AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1407\" , SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1326\" , CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2502\" , GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2625\" , STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1953\" , DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1962\" , GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1961\" , DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"895\" , TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?=%2F.ts
 #EXTINF:0,SONY
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,WB
@@ -108,32 +155,20 @@ http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,AZCORAZON
 http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOX
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,BBC ENTRETAINMENT
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,E!
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,SYFY
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,ID
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,TNT SERIES
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,EL GOURMET
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,GARAGE TV
 http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,GLITZ
 http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOXLIFE
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,DISTRITO COMEDIA
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,TLNOVELAS
@@ -158,109 +193,81 @@ http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,AZCLIC
 http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOX CINEMA
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOX CLASSIC
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,AZCINEMA
 http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,CINECANAL
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,TNT
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,GOLDEN
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,FILMZONE
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,DEPELICULA
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,SPACE
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOXCINEMA
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,FOXCLASSIC
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,CINECANAL
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,CINEMAX
-http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,EDGE
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,AMC
 http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,SPACE
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,STUDIOUNIVERSAL
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,I.SAT
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,TCM
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,UNIVERSAL MOVIES
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0,group-title="Musica", --MUSIC--
 http://?
-#EXTINF:0,MTV LIVE
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,TELEHIT
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 channelId=\"237\" , MTV Live
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1973\" , MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,MTV_HITS
+http://dino.webcindario.com/tp.php?canal=727&profile=3&f=.m3u8
+#EXTINF:-1 channelId=\"1966\" , TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"151\" , VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1959\" , Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?=%2F.ts
 #EXTINF:0,VHR
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,MTV HITS
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,1CLASSICS
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,RITMOSON
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,BANDAMAX
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,VHI_HD
-http://dino.webcindario.com/tp.php?canal=703&profile=3&f=.m3u8
-#EXTINF:-1,MTV
-http://dino.webcindario.com/tp.php?canal=726&profile=3&f=.m3u8
-#EXTINF:-1,MTV_HITS
-http://dino.webcindario.com/tp.php?canal=727&profile=3&f=.m3u8
-#EXTINF:-1,1CLASSIC
-http://dino.webcindario.com/tp.php?canal=728&profile=3&f=.m3u8
-#EXTINF:-1,RITMOSON
-http://dino.webcindario.com/tp.php?canal=731&profile=3&f=.m3u8
-#EXTINF:-1,BANDAMAX
-http://dino.webcindario.com/tp.php?canal=732&profile=3&f=.m3u8
-
 
 #EXTINF:0,group-title="CIENCIA/CULTURA",--CIENCIA/CULTURA--
 http://?
-#EXTINF:0,DISCOVERY THEATER
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 channelId=\"1491\" , EWTN
+http://ewtn.mpl.miisolutions.net:193...playlinst.m3u8
+#EXTINF:-1 channelId=\"164\" , NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"50\" , ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1455\" , HISTORY CHANEL
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"56\" , NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"57\" , DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2636\" , True tv
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2620\" , H&H DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"59\" , ID INVESTIGATION DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2841\" , DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2840\" , DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"58\" , SCI DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2558\" , Discovery Theater HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1188\" , E!
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?=%2F.ts
 #EXTINF:0,HISTORY
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,NATGEO WILD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,DISCOVERY WORLD
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,DISCOVERY CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,ANIMAL PLANET
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,H&H
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,NATGEO
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,LIFETIME
 http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0, DISCOVERY SCIENCE
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,DISCOVERY TURBO
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,WOBI
@@ -270,32 +277,30 @@ http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:0,group-title="INFANTILES",---INFANTILES---
 http://?
-#EXTINF:-1,DISCOVERY_KIDS
-http://dino.webcindario.com/tp.php?canal=303&profile=3&f=.m3u8
-#EXTINF:-1,CBEEBIES
-http://dino.webcindario.com/tp.php?canal=305&profile=3&f=.m3u8
-#EXTINF:-1,DISNEY_JR
-http://dino.webcindario.com/tp.php?canal=308&profile=3&f=.m3u8
-#EXTINF:-1,NICK_JR
-http://dino.webcindario.com/tp.php?canal=310&profile=3&f=.m3u8
-#EXTINF:-1,DISNEY_CHANNEL
-http://dino.webcindario.com/tp.php?canal=312&profile=3&f=.m3u8
-#EXTINF:-1,NICKTOONS
-http://dino.webcindario.com/tp.php?canal=314&profile=3&f=.m3u8
-#EXTINF:-1,NICK_HD
-http://dino.webcindario.com/tp.php?canal=315&profile=3&f=.m3u8
-#EXTINF:-1,NICK
-http://dino.webcindario.com/tp.php?canal=317&profile=3&f=.m3u8
-#EXTINF:-1,CARTOON_NETWORK
-http://dino.webcindario.com/tp.php?canal=320&profile=3&f=.m3u8
-#EXTINF:-1,DISNEY_XD
-http://dino.webcindario.com/tp.php?canal=322&profile=3&f=.m3u8
-#EXTINF:-1,BOOMERANG
-http://dino.webcindario.com/tp.php?canal=324&profile=3&f=.m3u8
-#EXTINF:-1,TIIN
-http://dino.webcindario.com/tp.php?canal=325&profile=3&f=.m3u8
-#EXTINF:-1,TOONCAST
-http://dino.webcindario.com/tp.php?canal=328&profile=3&f=.m3u8
+#EXTINF:-1 channelId=\"2505\" , DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1147\" , CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1197\" , DISNEY JUNIOR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"322\" , NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"19\" , DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2711\" , NICKS TOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2707\" , NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"40\" , CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"1198\" , DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"321\" , BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2688\" , TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 channelId=\"2639\" , TOON CAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?=%2F.ts
 
 #EXTINF:0,group-title="COLOMBIA",---COLOMBIA---
 http://?
@@ -356,10 +361,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:0,group-title="MEXICO",--MEXICO---
 http://?
-#EXTINF:-1,Travel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/playlist_b900000.m3u8
-#EXTINF:0,TDN Mexico
-http://iptv.latino-webtv.com/server2.m3u8?canal=TDNMXLA&cm=1059
 #EXTINF:-1,Canal 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,El Trece HD
@@ -441,8 +442,6 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:0,group-title="ESPAÑA",--ESPAÑA--
 http://?
-#EXTINF:-1 tvg-id="ES-SAT_I193.754266.microsoft.com" tvg-name="Telecinco193_Telecinco193" tvg-logo="telecinco.png",Telecinco - España
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 #EXTINF:-1 tvg-id="ES-SAT_I95.752722.microsoft.com" tvg-name="ETB_Sat95_ETB_Sat95" tvg-logo="etb.png",ETB - - España
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1 tvg-id="Total_Nova" tvg-name="Nova" tvg-logo="nova.png",Nova - España
@@ -471,15 +470,3 @@ http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b7500
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 #EXTINF:-1 tvg-id="ES-SAT_I133.755270.microsoft.com" tvg-name="Localia_TV_Huesca133_Localia_TV_Huesca133" tvg-logo="guiatv-prueba.png",Huesca TV - España
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Información TV - España
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1,Travel TV - España
-rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 tvg-id="ES-SAT_I8.754189.microsoft.com" tvg-name="Antena_38_Antena_38" tvg-logo="antena-3.png",Antena 3 Internacional - España
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-#EXTINF:0 tvg-id="ES-SAT_I8.754189.microsoft.com" tvg-name="Antena_38_Antena_38" tvg-logo="guiatv-prueba.png",Antena 3 - España
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0 tvg-id="ES-SAT_I124.755439.microsoft.com" tvg-name="La_Sexta124_La_Sexta124" tvg-logo="guiatv-prueba.png",LaSexta - España
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
